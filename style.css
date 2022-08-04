@@ -1,0 +1,47 @@
+body{
+    background: url("background.jpg");
+    background-size: cover;
+    color: white;
+    font-family: 'Neucha', cursive;
+}
+
+#note{
+    font-size: 18px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+#play{
+    font-size: 20px;
+    width: 100px;
+}
+
+canvas{
+    border: 10px solid white;
+}
+
+#div1{
+    float: left;
+}
+
+#disk1{
+    width: 250px;
+    border-radius: 200px;
+}
+
+#div2{
+    float: right;
+}
+
+#disk2{
+    width: 250px;
+    border-radius: 200px;
+}
+
+#volume,#speed{
+    font-size: 20px;
+    width: 151px;
+    color: black;
+}
